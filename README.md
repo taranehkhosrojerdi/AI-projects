@@ -1,3 +1,3 @@
 # AI-projects
-This repository contains Artificial Intelligence projects, which I done as my homework for the course
-Artificial Intelligence by Dr.Rohban - Spring 2023
+This repository contains Artificial Intelligence projects, which I've done as my homework for the
+Artificial Intelligence course by Dr. Rohban - Spring 2023
